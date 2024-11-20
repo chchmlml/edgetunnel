@@ -1281,6 +1281,7 @@ function checkSUB(host) {
 			'www.gov.ua:2096',
 			'www.gco.gov.qa:8443',
 			'www.gov.se',
+			'5.253.41.40:8443#JP',
 			'time.is',
 			'www.wto.org:8443',
 			'fbi.gov:2087',
